@@ -1,8 +1,13 @@
 # Wynard Dela Rosa
 **`Backend Developer`**
 
-I’m a self-taught backend developer passionate about building scalable, reliable, and efficient backend systems.
-Currently, I focus on the JavaScript/TypeScript ecosystem, designing APIs and backend solutions that solve real-world problems.
+<p>I’m a self-taught backend developer passionate about building scalable, reliable, and efficient backend systems.
+Currently, I focus on the JavaScript/TypeScript ecosystem, working with tools like Express, MongoDB, REST to build APIs and backend solutions that solve real-world problems.
+
+I’m always striving to apply and learn best practices to write clean, maintainable, and future-proof code.
+I’m eager to keep improving my skills while exploring other backend tools and technologies such as NestJS, GraphQL, and PostgreSQL.
+<p/>
+
 ---
 ### 🧰 Languages and Tools
 <img align="left" alt="JavaScript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
