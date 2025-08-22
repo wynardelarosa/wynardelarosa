@@ -1,7 +1,7 @@
 # Wynard Dela Rosa
 **`Backend Developer`**
 
-I’m a self-taught backend developer passionate about building scalable, reliable, and backend systems.
+I’m a self-taught backend developer passionate about building scalable, reliable, and efficient backend systems.
 Currently, I focus on the JavaScript/TypeScript ecosystem, designing APIs and backend solutions that solve real-world problems.
 ---
 ### 🧰 Languages and Tools
