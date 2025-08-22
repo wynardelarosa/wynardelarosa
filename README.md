@@ -16,9 +16,8 @@
 <br />
 
 ---
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wynardelarosa&layout=compact)
---
+![Top Langs](https://github-readme-stats-gamma-one-60.vercel.app/api/top-langs/?username=wynardelarosa&layout=compact)
+
 
 ### 📊 Stats
-
-![Forrest's GitHub stats](https://github-readme-stats.vercel.app/api?username=wynardelarosa&show_icons=true&theme=gruvbox)
+![Wynard GitHub stats](https://github-readme-stats-gamma-one-60.vercel.app/api?username=wynardelarosa&show_icons=true&theme=gruvbox)
