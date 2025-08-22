@@ -5,7 +5,7 @@
 Currently, I focus on the JavaScript/TypeScript ecosystem, working with tools like Express, MongoDB, REST to build APIs and backend solutions that solve real-world problems.
 
 I’m always striving to apply and learn best practices to write clean, maintainable, and future-proof code.
-I’m eager to keep improving my skills while exploring other backend tools and technologies such as NestJS, GraphQL, and PostgreSQL.
+I’m eager to keep improving my skills while exploring other backend tools and technologies such as NestJS, GraphQL, and PostgreSQL, etc.
 <p/>
 
 ---
@@ -20,6 +20,8 @@ I’m eager to keep improving my skills while exploring other backend tools and 
 <img align="left" alt="GitHub" width="30px" style="padding-right:10px;" src="https://img.icons8.com/3d-fluency/94/github-logo.png" />
 <img align="left" alt="HTML" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" />
 <img align="left" alt="CSS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" />
+<img align="left" alt="React" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
+<img align="left" alt="React" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" />
 <br />
 
 ---
