@@ -1,6 +1,8 @@
 # Wynard Dela Rosa
 **`Backend Developer`**
 
+I’m a self-taught backend developer passionate about building scalable, reliable, and backend systems.
+Currently, I focus on the JavaScript/TypeScript ecosystem, designing APIs and backend solutions that solve real-world problems.
 ---
 ### 🧰 Languages and Tools
 <img align="left" alt="JavaScript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
@@ -16,8 +18,10 @@
 <br />
 
 ---
-![Top Langs](https://github-readme-stats-gamma-one-60.vercel.app/api/top-langs/?username=wynardelarosa&layout=compact)
+<a href="https://github.com/wynardelarosa/convoychat">
+  <img height=200 align="center" src="https://github-readme-stats-8z5z.vercel.app/api/top-langs?username=wynardelarosa&layout=compact&langs_count=8&card_width=320" />
+</a>
+<!-- <a href="https://github.com/wynardelarosa/github-readme-stats">
+  <img height=200 align="center" src="https://github-readme-stats-8z5z.vercel.app/api?username=wynardelarosa" />
+</a> -->
 
-
-### 📊 Stats
-![Wynard GitHub stats](https://github-readme-stats-gamma-one-60.vercel.app/api?username=wynardelarosa&show_icons=true&theme=gruvbox)
