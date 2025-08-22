@@ -2,10 +2,9 @@
 **`Backend Developer`**
 
 <p>I’m a self-taught backend developer passionate about building scalable, reliable, and efficient backend systems.
+I’m always striving to apply and learn best practices to write clean, maintainable, and future-proof code.
 Currently, I focus on the JavaScript/TypeScript ecosystem, working with tools like Express, MongoDB, REST to build APIs and backend solutions that solve real-world problems.
 
-I’m always striving to apply and learn best practices to write clean, maintainable, and future-proof code.
-I’m eager to keep improving my skills while exploring other backend tools and technologies such as NestJS, GraphQL, and PostgreSQL, etc.
 <p/>
 
 ---
