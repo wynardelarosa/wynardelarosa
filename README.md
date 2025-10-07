@@ -24,9 +24,9 @@ Currently, I focus on the JavaScript/TypeScript ecosystem, working with tools li
 <br />
 
 ---
-<a href="https://github.com/wynardelarosa/convoychat">
+<!-- <a href="https://github.com/wynardelarosa/convoychat">
   <img height=200 align="center" src="https://github-readme-stats-8z5z.vercel.app/api/top-langs?username=wynardelarosa&layout=compact&langs_count=8&card_width=320" />
-</a>
+</a> -->
 <!-- <a href="https://github.com/wynardelarosa/github-readme-stats">
   <img height=200 align="center" src="https://github-readme-stats-8z5z.vercel.app/api?username=wynardelarosa" />
 </a> -->
